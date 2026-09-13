@@ -2,7 +2,7 @@
 
 Smart Contract Security Auditor · EVM · DeFi · Oracles · RWA
 
-**CV:** [**Stanislav\_Piterin\_Smart\_Contract\_Auditor.pdf**](./Stanislav_Piterin_Smart_Contract_Auditor.pdf)
+**CV:** [**Stanislav_Piterin_Orakuru.pdf**](./Stanislav_Piterin_Orakuru.pdf)
 
 ### 
 
